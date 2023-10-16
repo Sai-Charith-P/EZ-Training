@@ -1,2 +1,2 @@
-# EZ-Training
+# EZ-TS
 For Product-Based Companies
